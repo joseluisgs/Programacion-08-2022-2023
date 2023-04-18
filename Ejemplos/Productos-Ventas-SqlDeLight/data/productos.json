@@ -1,0 +1,110 @@
+[
+  {
+    "id": 2,
+    "nombre": "Producto 2",
+    "precio": 20.0,
+    "cantidad": 20,
+    "createdAt": "2023-04-04T17:40:36",
+    "updatedAt": "2023-04-03T17:40:36",
+    "disponible": false
+  },
+  {
+    "id": 3,
+    "nombre": "Producto 3",
+    "precio": 10.0,
+    "cantidad": 10,
+    "createdAt": "2023-04-04T17:40:36",
+    "updatedAt": "2023-04-03T17:40:36",
+    "disponible": true
+  },
+  {
+    "id": 4,
+    "nombre": "Producto M",
+    "precio": 37.45055810239127,
+    "cantidad": 26,
+    "createdAt": "2023-04-04T20:53:01.288381993",
+    "updatedAt": "2023-04-04T20:53:01.288381993",
+    "disponible": true
+  },
+  {
+    "id": 5,
+    "nombre": "Producto M",
+    "precio": 53.090393711411735,
+    "cantidad": 11,
+    "createdAt": "2023-04-04T20:53:01.319172397",
+    "updatedAt": "2023-04-04T20:53:01.319172397",
+    "disponible": true
+  },
+  {
+    "id": 6,
+    "nombre": "Producto O",
+    "precio": 10.293439461887663,
+    "cantidad": 43,
+    "createdAt": "2023-04-04T20:53:01.334057668",
+    "updatedAt": "2023-04-04T20:53:01.334057668",
+    "disponible": true
+  },
+  {
+    "id": 7,
+    "nombre": "Producto U",
+    "precio": 50.39657547369932,
+    "cantidad": 26,
+    "createdAt": "2023-04-04T20:53:01.348754415",
+    "updatedAt": "2023-04-04T20:53:01.348754415",
+    "disponible": false
+  },
+  {
+    "id": 8,
+    "nombre": "Producto Q",
+    "precio": 54.03556666011682,
+    "cantidad": 14,
+    "createdAt": "2023-04-04T20:53:01.368216576",
+    "updatedAt": "2023-04-04T20:53:01.368216576",
+    "disponible": true
+  },
+  {
+    "id": 9,
+    "nombre": "Producto E",
+    "precio": 58.1055733524528,
+    "cantidad": 17,
+    "createdAt": "2023-04-04T20:53:01.397911509",
+    "updatedAt": "2023-04-04T20:53:01.397911509",
+    "disponible": false
+  },
+  {
+    "id": 10,
+    "nombre": "Producto A",
+    "precio": 41.92715537853899,
+    "cantidad": 18,
+    "createdAt": "2023-04-04T20:53:01.414338592",
+    "updatedAt": "2023-04-04T20:53:01.414338592",
+    "disponible": true
+  },
+  {
+    "id": 11,
+    "nombre": "Producto Y",
+    "precio": 70.28438647300885,
+    "cantidad": 45,
+    "createdAt": "2023-04-04T20:53:01.433120118",
+    "updatedAt": "2023-04-04T20:53:01.433120118",
+    "disponible": false
+  },
+  {
+    "id": 12,
+    "nombre": "Producto R",
+    "precio": 77.43546348987675,
+    "cantidad": 11,
+    "createdAt": "2023-04-04T20:53:01.450322631",
+    "updatedAt": "2023-04-04T20:53:01.450322631",
+    "disponible": true
+  },
+  {
+    "id": 13,
+    "nombre": "Producto V",
+    "precio": 83.49864602814542,
+    "cantidad": 17,
+    "createdAt": "2023-04-04T20:53:01.588717451",
+    "updatedAt": "2023-04-04T20:53:01.588717451",
+    "disponible": true
+  }
+]
